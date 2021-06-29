@@ -1,6 +1,6 @@
 {
   "name": "@pushrocks/smartarray",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "description": "a package exposing async manipulation for arrays",
   "main": "dist_ts/index.js",
