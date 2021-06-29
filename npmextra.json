@@ -1,0 +1,18 @@
+{
+  "gitzone": {
+    "projectType": "npm",
+    "module": {
+      "githost": "gitlab.com",
+      "gitscope": "pushrocks",
+      "gitrepo": "smartarray",
+      "shortDescription": "a package exposing async manipulation for arrays",
+      "npmPackagename": "@pushrocks/smartarray",
+      "license": "MIT",
+      "projectDomain": "push.rocks"
+    }
+  },
+  "npmci": {
+    "npmGlobalTools": [],
+    "npmAccessLevel": "public"
+  }
+}
